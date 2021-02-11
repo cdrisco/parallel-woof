@@ -1,0 +1,83 @@
+
+Beaver.png
+size: 632,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 110
+  size: 329, 430
+  orig: 331, 432
+  offset: 1, 1
+  index: -1
+L Ear
+  rotate: false
+  xy: 530, 195
+  size: 72, 67
+  orig: 74, 69
+  offset: 1, 1
+  index: -1
+L leg
+  rotate: false
+  xy: 333, 22
+  size: 187, 169
+  orig: 189, 171
+  offset: 1, 1
+  index: -1
+L paw
+  rotate: false
+  xy: 530, 264
+  size: 100, 115
+  orig: 102, 117
+  offset: 1, 1
+  index: -1
+R Ear
+  rotate: false
+  xy: 522, 10
+  size: 72, 67
+  orig: 74, 69
+  offset: 1, 1
+  index: -1
+R Leg
+  rotate: false
+  xy: 333, 193
+  size: 195, 186
+  orig: 197, 188
+  offset: 1, 1
+  index: -1
+R eye
+  rotate: false
+  xy: 283, 56
+  size: 38, 52
+  orig: 40, 54
+  offset: 1, 1
+  index: -1
+l eye
+  rotate: false
+  xy: 283, 56
+  size: 38, 52
+  orig: 40, 54
+  offset: 1, 1
+  index: -1
+R paw
+  rotate: false
+  xy: 522, 79
+  size: 104, 112
+  orig: 106, 114
+  offset: 1, 1
+  index: -1
+Tail
+  rotate: false
+  xy: 333, 381
+  size: 264, 159
+  orig: 266, 161
+  offset: 1, 1
+  index: -1
+glasses
+  rotate: false
+  xy: 2, 2
+  size: 279, 106
+  orig: 281, 108
+  offset: 1, 1
+  index: -1

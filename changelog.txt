@@ -1,0 +1,11 @@
+v0.3
+Deleted "obstacle1" and "Plane" 3d objects
+Deleted unneeded objects and scenes
+Put the 3 dust particles into one dust folder(empty gameobject)
+
+v0.4
+added string PlayerController.currentAnimal
+added public GameObjects for each animal obstacle
+
+when you press spacebar, it checks to see currentAnimal and removes that obstacle
+

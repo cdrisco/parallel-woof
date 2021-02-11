@@ -1,0 +1,83 @@
+
+RealDog.png
+size: 671,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Left Ear
+  rotate: true
+  xy: 412, 2
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+Leg L B
+  rotate: false
+  xy: 412, 71
+  size: 141, 249
+  orig: 141, 249
+  offset: 0, 0
+  index: -1
+Leg L F
+  rotate: false
+  xy: 552, 324
+  size: 107, 215
+  orig: 107, 215
+  offset: 0, 0
+  index: -1
+Leg R B
+  rotate: false
+  xy: 264, 39
+  size: 146, 253
+  orig: 146, 253
+  offset: 0, 0
+  index: -1
+Leg R F
+  rotate: false
+  xy: 555, 103
+  size: 110, 219
+  orig: 110, 219
+  offset: 0, 0
+  index: -1
+Right Ear
+  rotate: true
+  xy: 555, 2
+  size: 99, 114
+  orig: 99, 114
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 294
+  size: 353, 245
+  orig: 353, 245
+  offset: 0, 0
+  index: -1
+brow
+  rotate: true
+  xy: 2, 2
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 488, 26
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 41
+  size: 260, 251
+  orig: 260, 251
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 357, 322
+  size: 193, 217
+  orig: 193, 217
+  offset: 0, 0
+  index: -1
